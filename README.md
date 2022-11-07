@@ -1,4 +1,7 @@
 
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+
 # A Chrome extension using JavaScript
 
 In this project, we're going to build a chrome extension by using JavaScript.
@@ -44,4 +47,54 @@ Before publishing our extension to the Chrome Web Store, we need to get it revie
 
 
 
+
+
+## Authors
+
+- [@YoussefMuhammad22](https://github.com/YoussefMuhammad22)
+
+
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+## Usage/Examples
+
+```javascript
+import Component from 'my-project'
+
+function App() {
+  return <Component />
+}
+```
+
+
+## FAQ
+
+#### How does the extension work ?
+
+Go to chrome://extensions and enable it then go to youtube and refresh it you will find the pictures of cristiano ronaldo instead of videos thumbnails pictures
+and if you go to morioh.com you will find cristiano ronaldo images on the homepage of this website.
+#### How was this extension built ?
+
+By using JavaScript.
+
+## Related
+
+Here are some related projects
+
+[Awesome README](https://github.com/matiassingers/awesome-readme)
 
